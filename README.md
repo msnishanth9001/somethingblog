@@ -10,7 +10,7 @@ This is a collection of learning, and not meant to replace the book.
 # current 
 - [x] [Chapter 1](../../issues/2)
 - [ ] [Chapter 2](../../issues/4)
-- [ ] [capture concepts](#(../../issues/3)
+- [ ] [capture concepts](../../issues/3)
 - [ ] ...
 - [ ] [Chapter 14]
 

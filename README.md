@@ -5,7 +5,7 @@ This repository contains tools made by completing exercises from the book: Black
 <img src="https://kerkour.com/books/black-hat-rust/black_hat_rust_cover.png" width="250" height="400"/>
 
 # current 
-- [x] chapter 1.
+- [x] #1
 - [ ] add learning.
 
 

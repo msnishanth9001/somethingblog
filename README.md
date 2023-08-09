@@ -4,16 +4,17 @@ This repository contains tools made by completing exercises from the book: Black
 
 <img src="https://kerkour.com/books/black-hat-rust/black_hat_rust_cover.png" width="250" height="400"/>
 
+> [!NOTE]
+This is a collection of learning, and not meant to replace the book.
+
 # current 
 - [x] [Chapter 1](../../issues/2)
 - [ ] [Chapter 2](../../issues/4)
-- [ ] [capture concepts](#3)
+- [ ] [capture concepts](#(../../issues/3)
 - [ ] ...
 - [ ] [Chapter 14]
 
 
-> [!NOTE]
-This is a collection of items, and not meant to replace the book.
 
 
 in dev[^1].

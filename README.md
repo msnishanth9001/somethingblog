@@ -6,8 +6,8 @@ This repository contains tools made by completing exercises from the book: Black
 
 # current 
 - [x] [Chapter 1](../../issues/2)
-- [ ] [Chapter 2](../../issues/1)
-- [ ] add learning.
+- [ ] [Chapter 2](../../issues/4)
+- [ ] [capture concepts](#3)
 - [ ] ...
 - [ ] [Chapter 14]
 

@@ -2,3 +2,5 @@ Ch01/sha1_cracker/target/*
 Ch01/snippets/target/*
 Ch02/tricoder/target/*
 pages/
+crabCodes/rustyCrab/crabBubble/target/*
+crabCodes/rustyCrab/wasmBubble/target/*
